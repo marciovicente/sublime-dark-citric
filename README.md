@@ -3,6 +3,7 @@ Sublime Dark Citric Theme
 
 Simple Sublime theme, ideal for Linux distributions
 
+![Alt text](/../master/imgs/print_rb?raw=true "Ruby screenshot")
 
 **Download theme**
 ```
@@ -23,3 +24,7 @@ In ST, choose Sublime Dark Citric Theme:
 **Preference > Color Scheme > User > Dark Citric**
 
 **Done (:** 
+
+**More screenshots**
+![Alt text](/../master/imgs/print_html?raw=true "HTML screenshot")
+![Alt text](/../master/imgs/print_sass?raw=true "SASS screenshot")
