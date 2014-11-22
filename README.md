@@ -1,7 +1,7 @@
 Sublime Dark Citric Theme
 ========================
 
-Simple Sublime theme, ideal for Linux distributions
+Simple Sublime color scheme, ideal for Linux distributions
 
 ![Sublime Dark Citric Ruby Theme](/../master/imgs/print_rb.png?raw=true "Ruby screenshot")
 
@@ -25,6 +25,10 @@ In ST, choose Sublime Dark Citric Theme:
 
 **Done (:** 
 
+I recommend to use this with [Set_UI sublime theme] (https://sublime.wbond.net/packages/Seti_UI)
+
 **More screenshots**
-![Alt text](/../master/imgs/print_html.png?raw=true "HTML screenshot")
-![Alt text](/../master/imgs/print_sass.png?raw=true "SASS screenshot")
+![HTML Screenshot](/../master/imgs/print_html.png?raw=true "HTML screenshot")
+![SASS Screenshot](/../master/imgs/print_sass.png?raw=true "SASS screenshot")
+
+
